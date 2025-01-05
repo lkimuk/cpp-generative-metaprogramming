@@ -1,5 +1,5 @@
 # C++ Generative Metaprogramming
-[cover](images/cover.png)
+![cover](images/cover.png)
 
 下载地址：[点击下载](https://github.com/lkimuk/cpp-generative-metaprogramming/releases/tag/v1.0)
 
@@ -12,12 +12,12 @@
 C++ 元编程相关的书，内容主要集中于模板元编程，当前没有系统讲解现代 C++ 产生式元编程的书籍。而随着静态反射进入标准，产生式元编程将迎来新一轮的显著增强，这一次影响深远，是继 C++11 以来变化最大的一次。因此，对 C++ 产生式元编程的发展历史形成系统的认识很有必要，本书内容从 C++98 持续到 C++26（甚至更远），写的就是这部分空缺。
 
 目录：
-[cover](images/cpp-generative-metaprogramming-images-0.jpg)
-[cover](images/cpp-generative-metaprogramming-images-1.jpg)
-[cover](images/cpp-generative-metaprogramming-images-2.jpg)
-[cover](images/cpp-generative-metaprogramming-images-3.jpg)
-[cover](images/cpp-generative-metaprogramming-images-4.jpg)
-[cover](images/cpp-generative-metaprogramming-images-5.jpg)
+![contents](images/cpp-generative-metaprogramming-images-0.jpg)
+![contents](images/cpp-generative-metaprogramming-images-1.jpg)
+![contents](images/cpp-generative-metaprogramming-images-2.jpg)
+![contents](images/cpp-generative-metaprogramming-images-3.jpg)
+![contents](images/cpp-generative-metaprogramming-images-4.jpg)
+![contents](images/cpp-generative-metaprogramming-images-5.jpg)
 
 本书的目标读者为已经具备多年 C++ 开发经验的高级程序设计者。
 
