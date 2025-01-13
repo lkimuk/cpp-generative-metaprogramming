@@ -2,6 +2,7 @@
 ![cover](images/cover.png)
 
 下载地址：[点击下载](https://github.com/lkimuk/cpp-generative-metaprogramming/releases/tag/v1.0)
+堪误表：[Errata](https://www.cppmore.com/cpp-generative-metaprogramming-errata/)
 
 岁月不居，时节如流，一载光景，倏忽已逝。
 
